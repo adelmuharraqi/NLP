@@ -1,1 +1,1 @@
-# NLP
+This notebook delves into a comprehensive IMDB dataset, featuring 50,000 movie reviews with essential 'review' and 'sentiment' columns. Our primary objective is to identify the best machine learning model for predicting sentiment from movie reviews. Through the exploration of diverse algorithms, we aim to create a robust sentiment prediction model. This not only advances sentiment analysis in movie reviews but also contributes valuable insights to the broader landscape of natural language processing tasks.
